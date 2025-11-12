@@ -1,11 +1,7 @@
 ## Hi there 👋
 
 
-To the moon 🚀🚀🚀
-
-
-
-Yes, we are building the future with GitHub. In fact, we’ve been doing this since October 22th June, 2023. That's when we made our first commit.
+we are building the future with GitHub. In fact, we’ve been doing this since October 22th June, 2023. That's when we made our first commit.
 
 💗 Our heart is technology and community and is fundamental to how we build software today.
 
